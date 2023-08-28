@@ -208,6 +208,28 @@ body {
     
 }
 
+.info-video-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    margin-top: 63px;
+    color: #400cfd;
+    
+    
+}
+
+ iframe {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
 
 
 
